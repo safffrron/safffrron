@@ -1,4 +1,5 @@
-### Hello !!
+## Hello !!
+ 
 <a href="https://www.instagram.com/safffrron/">
   <img align="left" alt="Kislay's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
@@ -27,6 +28,7 @@ Also, I play chess; Challenge me [here](https://www.chess.com/member/safffrron) 
 -  any freelance work? do reach, [email](mailto:oasiskislay@gmail.com) :)
 -  ask me about anything, i am happy to help;
 
+
 ### Languages and Tools
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -42,6 +44,10 @@ Also, I play chess; Challenge me [here](https://www.chess.com/member/safffrron) 
 ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)<br/>
 ![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white) 
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06) <br/>
+<br/>
+![ProfileViews](https://komarev.com/ghpvc/?username=safffrron&&style=flat-square) 
+
+  
 
 ![Kislay's GitHub stats](https://github-readme-stats.vercel.app/api?username=safffrron&show_icons=true&theme=radical)
 
