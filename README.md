@@ -45,7 +45,7 @@ Also, I play chess; Challenge me [here](https://www.chess.com/member/safffrron) 
 
 ![Kislay's GitHub stats](https://github-readme-stats.vercel.app/api?username=safffrron&show_icons=true&theme=radical)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=colordepth&langs_count=7&layout=compact&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safffrron&langs_count=7&layout=compact&theme=radical" />
 
 
 
