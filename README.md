@@ -45,10 +45,11 @@ Also, I play chess; Challenge me [here](https://www.chess.com/member/safffrron) 
 ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)<br/>
 ![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white) 
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06) <br/>
+<br/>
+<br/>
 
-<br/>
-<br/>
-![ProfileViews](https://komarev.com/ghpvc/?username=safffrron&&style=flat-square) 
+![ProfileViews](https://komarev.com/ghpvc/?username=safffrron&&style=flat-square)  
+
 
 ![Kislay's GitHub stats](https://github-readme-stats.vercel.app/api?username=safffrron&show_icons=true&theme=radical)
 
