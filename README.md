@@ -25,8 +25,7 @@ Also, I play chess; Challenge me [here](https://www.chess.com/member/safffrron) 
 
   <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="500" height="520" />
   
--  any freelance work? do reach, [email](mailto:oasiskislay@gmail.com) :)
--  ask me about anything, i am happy to help;
+
 
 
 ### Languages and Tools
