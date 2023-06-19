@@ -18,7 +18,7 @@
 <br />
 <br />
 
-Hi, i'm Kislay Aditya Oj,a ML enthusiast. I love playin with data and stats and am really interested in different fields of CS which deals with algorithm and maths.Currently I am learning Computer vision and Data Science. I do enjoy open source and would love to contribute in my area of expertise.
+Hi, i'm Kislay Aditya Oj,a tech enthusiast. I love playin with data and stats and am really interested in different fields of CS which deals with algorithm and maths. Currently I am learning different tools and technologies related to software developement and Machine learning. I do enjoy open source and would love to contribute in my area of expertise.
 
 Also, I play chess; Challenge me [here](https://www.chess.com/member/safffrron) if you are free. 
 
