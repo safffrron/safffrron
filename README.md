@@ -1,7 +1,7 @@
 ## Welcome !!
  
 <a href="https://www.instagram.com/safffrron/">
-  <img align="left" alt="Kislay's Instagram" width="22px" src="https://github.com/dheereshagrwal/colored-icons/blob/master/svg/instagram.svg" />
+  <img align="left" alt="." width="22px" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/instagram/instagram.svg" />
 </a>
 <a href="https://discord.gg/qce3pFG6">
   <img align="left" alt="Kislay's Discord" width="22px" src="https://camo.githubusercontent.com/5b475732a4ed305b1041d81185353428fb9860f5e5a5fe3249ee547e3b5aa69b/68747470733a2f2f63646e2e7261776769742e636f6d2f4e4e54696e2f646973636f72642d6c6f676f2f66343333333334342f7372632f6173736574732f616e696d61746564646973636f72642e737667" />
@@ -10,7 +10,7 @@
   <img align="left" alt="Kislay Twitter" width="22px" src="https://github.com/johan/svg-cleanups/blob/master/logos/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/kislayadityaoj/">
-  <img align="left" alt="Kislay LinkedIn" width="75px" src="https://github.com/dheereshagrwal/colored-icons/blob/master/svg/linkedin-horizontal.svg" />
+  <img align="left" alt="." width="25px" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/linkedin/linkedin.svg" />
 </a>
 
 
