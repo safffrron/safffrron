@@ -1,16 +1,16 @@
 ## Welcome !!
  
 <a href="https://www.instagram.com/safffrron/">
-  <img align="left" alt="." width="22px" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/instagram/instagram.svg" />
+  <img align="left" alt="." width="22px" src="https://www.svgrepo.com/show/512399/instagram-167.svg" />
 </a>
 <a href="https://discord.gg/qce3pFG6">
-  <img align="left" alt="Kislay's Discord" width="22px" src="https://camo.githubusercontent.com/b15646585366435f766c6e4e0e1999d2a6ea59925bb78836519aabd882169c59/68747470733a2f2f63646e2e7261776769742e636f6d2f4e4e54696e2f646973636f72642d6c6f676f2f66343333333334342f7372632f6173736574732f616e696d61746564646973636f72642e737667" />
+  <img align="left" alt="Kislay's Discord" width="28px" src="https://www.svgrepo.com/show/504277/discord.svg" />
 </a>
 <a href="https://twitter.com/safffrron">
   <img align="left" alt="Kislay Twitter" width="22px" src="https://github.com/johan/svg-cleanups/blob/master/logos/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/kislayadityaoj/">
-  <img align="left" alt="." width="25px" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/linkedin/linkedin.svg" />
+  <img align="left" alt="." width="25px" src="https://www.svgrepo.com/show/512419/linkedin-161.svg" />
 </a>
 <a href="https://codepen.io/safffrron">
   <img align="left" alt="." width="25px" src="https://www.svgrepo.com/show/341703/codepen.svg" />
