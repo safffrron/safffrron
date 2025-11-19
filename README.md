@@ -6,7 +6,7 @@
 <a href="https://discord.gg/qce3pFG6">
   <img align="left" alt="Kislay's Discord" width="28px" src="https://www.svgrepo.com/show/504277/discord.svg" />
 </a>
-<a href="https://twitter.com/safffrron">
+<a href="https://twitter.com/blindlamp">
   <img align="left" alt="Kislay Twitter" width="22px" src="https://github.com/johan/svg-cleanups/blob/master/logos/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/kislayadityaoj/">
