@@ -3,18 +3,18 @@
 <a href="https://www.instagram.com/safffrron/">
   <img align="left" alt="." width="22px" src="https://www.svgrepo.com/show/512399/instagram-167.svg" />
 </a>
-<a href="https://discord.gg/qce3pFG6">
+<!-- <a href="https://discord.gg/qce3pFG6">
   <img align="left" alt="Kislay's Discord" width="28px" src="https://www.svgrepo.com/show/504277/discord.svg" />
-</a>
+</a> -->
 <a href="https://twitter.com/blindlamp">
   <img align="left" alt="Kislay Twitter" width="22px" src="https://github.com/johan/svg-cleanups/blob/master/logos/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/kislayadityaoj/">
   <img align="left" alt="." width="25px" src="https://www.svgrepo.com/show/512419/linkedin-161.svg" />
 </a>
-<a href="https://codepen.io/safffrron">
+<!-- <a href="https://codepen.io/safffrron">
   <img align="left" alt="." width="25px" src="https://www.svgrepo.com/show/341703/codepen.svg" />
-</a>
+</a> -->
 
 
 <br />
